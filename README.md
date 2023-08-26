@@ -1,5 +1,7 @@
 
-![panda](https://github.com/yuxontop/Pandabuy-No-Risk/assets/99289712/2f15dc8d-07f9-4090-9b16-9cd22e6f8fd1)
+<p align="center">
+  <img src="https://github.com/yuxontop/Pandabuy-No-Risk/assets/99289712/329a4190-0df9-4487-bbee-308e23d4a0d2" alt="Pandabuy Risk Remover Icon"/>
+</p>
 
 # Pandabuy-No-Risk
 Remove all risk reminder popups when visiting a pandabuy product that go risks popup, allow you to visit every product even risk blocked ones!
