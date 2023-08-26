@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img style="border-radius: 10px;" src="https://github.com/yuxontop/Pandabuy-No-Risk/assets/99289712/329a4190-0df9-4487-bbee-308e23d4a0d2" alt="Pandabuy Risk Remover Icon"/>
+  <img src="https://github.com/yuxontop/Pandabuy-No-Risk/assets/99289712/329a4190-0df9-4487-bbee-308e23d4a0d2" alt="Pandabuy Risk Remover Icon"/>
 </p>
 
 # Pandabuy-No-Risk
