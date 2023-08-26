@@ -1,0 +1,26 @@
+{
+    "name": "Pandabuy No-Riskes",
+    "description": "Remove all risks popup when visiting a pandabuy product that go risks popup, you can now see every product even risk banned ones!",
+    "version": "0.5",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "/images/panda.png",
+        "32": "/images/panda.png",
+        "48": "/images/panda.png",
+        "128": "/images/panda.png"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "webNavigation",
+        "storage",
+        "tabs"
+    ],
+    "host_permissions": ["https://*/*"]
+}
