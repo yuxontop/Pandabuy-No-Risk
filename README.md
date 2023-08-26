@@ -12,9 +12,13 @@ Remove all risk reminder popups when visiting a pandabuy product that go risks p
 
 # How to install ?
 
+- Get the latest release from [releases](https://github.com/yuxontop/Pandabuy-No-Risk/releases)
+- Go here:
+
 ![image](https://github.com/yuxontop/Pandabuy-No-Risk/assets/99289712/a78b6a28-7d0c-4d3e-8855-bb23e7484374)
 
-And select the release folder!
+- And select the release folder!
+- Enjoy
 
 
 
